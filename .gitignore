@@ -1,3 +1,6 @@
-.vscode
+# Ignore all without extensions
+*
+!*.*
 
+.vscode
 *.out
